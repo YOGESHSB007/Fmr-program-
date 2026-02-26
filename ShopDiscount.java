@@ -1,4 +1,4 @@
-public class Main {
+public class ShopDiscount {
 
 static double getFinalAmount(double amount, boolean isMember){
 
