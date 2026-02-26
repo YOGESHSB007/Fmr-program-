@@ -1,4 +1,4 @@
-public class Prog1 {
+public class Billcalculate {
 
     public static double calculateBill(double amount, boolean isFirstOrder) {
         double dis = 0.0;
