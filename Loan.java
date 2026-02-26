@@ -1,4 +1,4 @@
-public class Prog3 {
+public class Loan {
     
     static void loanDecision(int age, int salary, int creditScore){
         if(age >= 21){
